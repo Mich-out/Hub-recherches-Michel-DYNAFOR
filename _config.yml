@@ -11,3 +11,4 @@ plugins:
 header_pages:
   - index.md
   - page-reunions.md
+  - page-recherche.md

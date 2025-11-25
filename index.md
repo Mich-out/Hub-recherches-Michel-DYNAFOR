@@ -2,11 +2,16 @@
 title: Accueil 
 layout: default
 ---
-
+# Présentation
 Cette page répertorie toutes les autres pages relatives à mon travail en tant qu'ingénieur de recherche et doctorant.
 
 Elles compilent donc les réunions, les CR associés, les questions de recherches, les chaines de traitement etc.
 
 ## 1 - Organisation du projet
-### 1.1 - Réunions
-Lien vers les réunions : [les réunions sont ici](page-reunions.md)
+
+- [Réunions, CR et ordres du jour](page-reunions.md)
+
+## 2 - Recherches
+
+- [Chaine de traitement Metashape](chaine-traitements.md)
+- [Questions des recherches (formalisation scientifique etc.)](page-recherche.md)
