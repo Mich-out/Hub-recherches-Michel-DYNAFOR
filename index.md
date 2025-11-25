@@ -15,3 +15,4 @@ Elles compilent donc les réunions, les CR associés, les questions de recherche
 
 - [Chaine de traitement Metashape](chaine-traitements.md)
 - [Questions des recherches (formalisation scientifique etc.)](page-recherche.md)
+- [Notes bibliographie](page-biblio.md)
