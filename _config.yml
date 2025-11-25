@@ -6,3 +6,8 @@ theme: minima
 markdown: kramdown
 plugins:
   - jekyll-feed
+
+# Pages à afficher dans le bandeau de navigation
+header_pages:
+  - index.md
+  - page-reunions.md
