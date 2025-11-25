@@ -1,0 +1,8 @@
+title: Avancée des recherches - Michel TARBY
+description: Pages en markdown pour organiser le travail effectué en tant qu'IR puis doctorant
+theme: minima
+
+# Options supplémentaires
+markdown: kramdown
+plugins:
+  - jekyll-feed
