@@ -2,7 +2,6 @@
 title: Accueil 
 layout: default
 ---
-# Présentation
 Cette page répertorie toutes les autres pages relatives à mon travail en tant qu'ingénieur de recherche et doctorant.
 
 Elles compilent donc les réunions, les CR associés, les questions de recherches, les chaines de traitement etc.
