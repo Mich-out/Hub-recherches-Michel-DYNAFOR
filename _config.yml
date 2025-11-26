@@ -13,6 +13,3 @@ header_pages:
   - page-reunions.md
   - page-recherche.md
 
-  # Ajout du CSS personnalisé
-sass:
-  style: compressed
