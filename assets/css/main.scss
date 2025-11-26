@@ -1,14 +1,6 @@
 ---
 ---
 
-@import "minima";
-
-/* VOS STYLES PERSONNALISÉS */
-h1, h2, h3, h4, h5, h6 {
-  font-weight: bold !important;
-  color: #121073 !important;
-}
-
-h1 { font-size: 2.2em; }
-h2 { font-size: 1.8em; }
-h3 { font-size: 1.5em; }
+@import
+  "minima/skins/{{ site.minima.skin | default: 'classic' }}",
+  "minima/initialize";
