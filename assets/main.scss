@@ -9,9 +9,9 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 body {
-  background-image: url("../assets/images/aerial-romania.jpg");
-  background-size: cover;          /* couvre tout l’écran */
-  background-repeat: no-repeat;
-  background-position: center;
-  background-attachment: fixed;    /* optionnel : reste fixe */
+  background-image: image-url('aerial-romania.jpg'); // cherche automatiquement dans assets/images
+}
+
+.wrapper {
+  background-color: transparent;
 }
