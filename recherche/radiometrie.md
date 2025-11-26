@@ -1,6 +1,6 @@
 ---
 title: Corrections radiométriques 
-layout: base
+layout: page
 ---
 
 ## Accès rapide
