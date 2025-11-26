@@ -9,9 +9,9 @@ Dans la mesure du possible, les dates de recherches seront également spécifié
 
 Cliquez sur le lien pour afficher directement chaque recherche effectuée :
 
-- [Corrections radiométriques](radiometrie.md)
-- [Corrections géométriques](geometrie.md)
-- [Comparaison de L'impact des MNS sur la réflectance des orthomosaïques](comparaison_MNS.md)
+- [Corrections radiométriques](recherche/radiometrie.md)
+- [Corrections géométriques](recherche/geometrie.md)
+- [Comparaison de l'impact des MNS sur la réflectance des orthomosaïques](recherche/comparaison_MNS.md)
 
 ### Questions
 
@@ -22,7 +22,7 @@ Cliquez sur le lien pour afficher directement chaque recherche effectuée :
 ### Méthode
 #### 1.2 - Impact des méthodes de corrections radiométriques sur une date
 ##### 1.2.1 - Impact DLS/CRP
-1 - Production orthomosaïque du 29/04/2025 via Metashape en utilisant :
+1. Production orthomosaïque du 29/04/2025 via Metashape en utilisant :
     - DLS + CRP avant et après le vol
     - DLS + CRP avant le vol
     - DLS + CRP après le vol
