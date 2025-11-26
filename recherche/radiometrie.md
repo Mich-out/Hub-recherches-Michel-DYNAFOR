@@ -2,7 +2,7 @@
 title: Corrections radiométriques 
 layout: default
 ---
-# Corrections radiométriques 
+
 ## Accès rapide
 * [Questions](#questions)
 * [Impact des méthodes de corrections radiométriques sur une date](#impact-des-méthodes-de-corrections-radiométriques-sur-une-date)
