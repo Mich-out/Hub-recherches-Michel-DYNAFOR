@@ -8,15 +8,15 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: bold;
 }
 
-.hero {
-  background-image: url("../assets/images/aerial-romania.jpg"); // chemin relatif depuis le css compilé
-  background-size: cover;          // couvre toute la div
+.wrapper {
+  background-image: url("../assets/images/aerial-romania.jpg"); // chemin relatif depuis le CSS compilé
+  background-size: cover;          // couvre tout le wrapper
   background-repeat: no-repeat;    // pas de répétition
   background-position: center;     // centrée
-  background-attachment: fixed;    // reste fixe lors du scroll
-  min-height: 100vh;               // prend tout l’écran
-  display: flex;                   // pour centrer le texte si besoin
-  justify-content: center;
-  align-items: center;
-  color: white;                    // texte lisible par-dessus l'image
+  min-height: 100vh;               // pour que le wrapper remplisse au moins la fenêtre
+  display: flex;                   // si tu veux centrer le texte verticalement
+  flex-direction: column;          // texte empilé normalement
+  justify-content: center;         // centre verticalement
+  align-items: center;             // centre horizontalement
+  color: white;                    // texte lisible
 }

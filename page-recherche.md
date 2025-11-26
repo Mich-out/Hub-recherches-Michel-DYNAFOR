@@ -2,7 +2,7 @@
 title: Recherches 
 layout: page
 ---
-# Recherches
+
 ## Présentation
 Sont présentés dans cette page les différentes questions abordées, les méthodes pour y répondre ainsi que les résultats.
 Dans la mesure du possible, les dates de recherches seront également spécifiées.
