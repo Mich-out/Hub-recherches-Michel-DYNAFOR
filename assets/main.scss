@@ -5,7 +5,7 @@
 
 /* PERSONNALISATION DES TITRES */
 h1, h2, h3, h4, h5, h6 {
-  font-weight: 700 !important;
+  font-weight: 1500 !important;
   color: #121073 !important;
 }
 
@@ -32,30 +32,3 @@ h4 { font-size: 1.3em; }
 h5 { font-size: 1.1em; }
 h6 { font-size: 1em; }
 
-/* Liens dans les titres */
-h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
-  color: #121073 !important;
-  text-decoration: none;
-}
-
-h1 a:hover, h2 a:hover, h3 a:hover {
-  text-decoration: underline;
-}
-
-/* Améliorer le corps de texte */
-body {
-  line-height: 1.6;
-}
-
-/* Code */
-code {
-  background-color: #f6f8fa;
-  padding: 0.2em 0.4em;
-  border-radius: 3px;
-}
-
-pre {
-  background-color: #f6f8fa;
-  border-radius: 5px;
-  padding: 1em;
-}
