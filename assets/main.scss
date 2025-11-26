@@ -8,3 +8,10 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: bold;
 }
 
+body {
+  background-image: url("../assets/images/aerial-romania.jpg");
+  background-size: cover;          /* couvre tout l’écran */
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;    /* optionnel : reste fixe */
+}
