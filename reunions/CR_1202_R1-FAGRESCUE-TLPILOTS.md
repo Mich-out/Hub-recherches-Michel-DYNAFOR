@@ -1,10 +1,7 @@
-<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
-  
-  <img src="https://projet-coterra.fr/wp-content/uploads/2023/03/Logo-DYNAFOR-long-Fond-blanc-1024x252.png" style="width: auto; height: 75px;">
-  
-</div>
-
-# Compte rendu - R1/R2 FAGRESCUE
+---
+title: Compte rendu - R1/R2 FAGRESCUE
+layout: page
+---
 
 Réunion du 12/01/2025 à 14h
 

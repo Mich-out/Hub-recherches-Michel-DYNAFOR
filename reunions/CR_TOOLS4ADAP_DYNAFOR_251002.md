@@ -1,4 +1,7 @@
-## CR Kick-off TOOLS4ADAP - DYNAFOR
+---
+title: CR Kick-off TOOLS4ADAP - DYNAFOR
+layout: page
+---
 
 Réunion du 02 octobre 2025 pour le lancement du projet Tools4Adap. Durée de 2h30.
 

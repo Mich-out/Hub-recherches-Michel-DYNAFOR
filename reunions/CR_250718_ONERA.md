@@ -1,4 +1,8 @@
-# Compte rendu - R1/R2 FAGRESCUE  
+---
+title: Compte rendu - R1/R2 FAGRESCUE  
+layout: page
+---
+
 **Réunion du 18/07/2025 à 10h**
 
 ## Participants

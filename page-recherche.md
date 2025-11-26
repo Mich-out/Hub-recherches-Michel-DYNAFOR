@@ -1,6 +1,6 @@
 ---
 title: Recherches 
-layout: default
+layout: page
 ---
 # Recherches
 ## Présentation

@@ -1,4 +1,7 @@
-# Notes Bibliographie FAGRESCUE
+---
+title: Notes bibliographie
+layout: page
+---
 
 #### NOTES GLOBALES
 - En général, pas ou peu d'articles parlant de l'utilisation du LIDAR sur UAV dans le cadre de la phénologie

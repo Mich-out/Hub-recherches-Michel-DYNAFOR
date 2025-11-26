@@ -1,9 +1,9 @@
 ---
 title: Réunions 
-layout: default
+layout: page
 ---
 # Réunions
-## 1 - Réunions Fagrescue
+## 1 - Réunions Fagrescue - 2025
 - [Points hebdomadaires](reunions/Points_hebdos.md)
 - [Compte rendu du 12/02/2025](reunions/CR_1202_R1-FAGRESCUE-TLPILOTS.md)
 - [Compte rendu du 02/06/2025](reunions/CR_020625_Articles_faisables.md)

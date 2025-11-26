@@ -1,6 +1,6 @@
 ---
 title: Comparaison des MNS 
-layout: default
+layout: page
 ---
 # Comparaison de l'impact de différents MNS sur la réflectance des orthomosaïques 
 ## Accès rapide

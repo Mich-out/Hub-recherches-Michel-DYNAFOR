@@ -1,4 +1,7 @@
-# Compte rendu - Articles possibles / Suite du projet FAGRESCUE
+---
+title: Compte rendu - Articles possibles / Suite du projet FAGRESCUE
+layout: page
+--- 
 
 Réunion du 20/06/2025 à 10h30
 

@@ -1,5 +1,6 @@
-# Points hebdomadaires FagRescue
-
+---
+title: Points hebdomadaires FagRescue
+layout: page
 ---
 
 ## 28/05/2025
