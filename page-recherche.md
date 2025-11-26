@@ -3,11 +3,16 @@ title: Recherches
 layout: default
 ---
 # Recherches
-## 0 -  Présentation
-Sont présentés dans ce documents les différentes questions abordées, les méthodes pour y répondre ainsi que les résultats.
+## Présentation
+Sont présentés dans cette page les différentes questions abordées, les méthodes pour y répondre ainsi que les résultats.
 Dans la mesure du possible, les dates de recherches seront également spécifiées.
 
-## 1 - Corrections radiométriques
+Cliquez sur le lien pour afficher directement chaque recherche effectuée :
+
+- [Corrections radiométriques](radiometrie.md)
+- [Corrections géométriques](geometrie.md)
+- [Comparaison de L'impact des MNS sur la réflectance des orthomosaïques](comparaison_MNS.md)
+
 ### Questions
 
 - Quelle est la précision des corrections radiométriques produites (DLS/CRP et ELM) ?
