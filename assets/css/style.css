@@ -1,0 +1,13 @@
+/* Import du style par défaut du thème Minima */
+@import "minima";
+
+/* Surcharge pour les titres */
+h1, h2, h3, h4, h5, h6 {
+  font-weight: bold;   /* force le gras */
+  color: #000000;      /* tu peux aussi changer la couleur */
+}
+
+/* Optionnel : agrandir un peu */
+h1 { font-size: 2.2em; }
+h2 { font-size: 1.8em; }
+h3 { font-size: 1.5em; }
