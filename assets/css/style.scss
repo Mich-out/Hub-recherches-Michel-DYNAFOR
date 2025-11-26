@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
+* {
+  outline: 3px solid red !important;
+}
+
 /* Surcharge pour les titres */
 h1, h2, h3, h4, h5, h6 {
   font-weight: bold;   /* force le gras */
