@@ -13,5 +13,3 @@ Cliquez sur le lien pour afficher directement chaque recherche effectuée :
 - [Corrections géométriques](recherche/geometrie.md)
 - [Comparaison de l'impact des MNS sur la réflectance des orthomosaïques](recherche/comparaison_MNS.md)
 
-## TEST PDF
-[Voir le PDF](recherche/pdfs/Rapport_Traitements_ete_2025.pdf)

@@ -13,8 +13,8 @@ Elles compilent donc les réunions, les CR associés, les questions de recherche
 
 ## 2 - Drones (méthodologie, processus etc.)
 
-- [Méthodologie drone](methodo-drone.md)
-- [Chaine de traitement orthomosaïques multispectrales Metashape](chaine-traitements.md)
+- [Documents relatifs au drone](drone/drone.md)
+- [Chaine de traitement orthomosaïques multispectrales Metashape](drone/chaine-traitements.md)
 
 ## 2 - Recherches
 - [Chaine de traitement Metashape](chaine-traitements.md)
