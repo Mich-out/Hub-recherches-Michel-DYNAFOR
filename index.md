@@ -13,11 +13,16 @@ Elles compilent donc les réunions, les CR associés, les questions de recherche
 
 ## 2 - Drones (méthodologie, processus etc.)
 
-- [Documents relatifs au drone](drone/drone.md)
+### Documents de terrain
+- [Procédures terrain](drone/pdfs/procedures_terrain.pdf)
+- [Procédures terrain simplifiées](drone/pdfs/procedures_terrain_simplifiees.pdf)
+- [Checklist de matériel de mission](drone/pdfs/checklist_materiel.pdf)
+
+### Documents relatifs à la méthodologie
+- [Rapport des traitements effectués pendant l'été 2025](drone/pdfs/Rapport_Traitements_ete_2025.pdf)
 - [Chaine de traitement orthomosaïques multispectrales Metashape](drone/chaine-traitements.md)
 
 ## 2 - Recherches
-- [Chaine de traitement Metashape](chaine-traitements.md)
 - [Questions des recherches (formalisation scientifique etc.)](page-recherche.md)
 - [Notes bibliographie](page-biblio.md)
 
