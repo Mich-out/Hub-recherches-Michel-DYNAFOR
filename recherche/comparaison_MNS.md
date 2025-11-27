@@ -1,8 +1,7 @@
 ---
-title: Comparaison des MNS 
+title: Comparaison de l'impact de différents MNS sur la réflectance des orthomosaïques 
 layout: default
 ---
-# Comparaison de l'impact de différents MNS sur la réflectance des orthomosaïques 
 ## Accès rapide
 * [Questions](#questions)
 * [Méthode](#methode)
@@ -47,17 +46,17 @@ Utilisation d’un MNS :
 3. Rééchantillonnage au plus proche voisin afin d’aligner les cellules des rasters (QGIS) ;
 
 4. Découpage des orthomosaïques en utilisant le polygone utilisé pour le plan de vol (recouvrement d’images optimal) ;
-5. Calcul d’une différence normalisée pour chaque paire d’image, soit 6 différences au total :
+5. Calcul d’une différence normalisée - NDR [1] - pour chaque paire d’image, soit 6 différences au total :
 $$
-NDI = \frac{Raster\ 1 - Raster\ 2}{Raster\ 1 + Raster\ 2}
+NDR = \frac{Raster\ 1 - Raster\ 2}{Raster\ 1 + Raster\ 2}
 $$
 6. Création d’un histogramme pour chaque paire
 7. Export des rasters et visualisation dans QGIS
 
 ## Résultats
 ### Graphes
-![NDI pour chaque paire de raster](img/comparaison_MNS/histogramme_NDI.png)
-*NDI pour chaque paire de raster*
+![NDR pour chaque paire de raster](img/comparaison_MNS/histogramme_NDI.png)
+*NDR pour chaque paire de raster*
 
 ![Percentile 5% pour chaque paire de raster - les données étant symétriques par rapport à 0, la borne 95% est la même en positif](img/comparaison_MNS/borne_5%25_NDI_0424.png)
 *Percentile 5% pour chaque paire de raster - les données étant symétriques par rapport à 0, la borne 95% est la même en positif*
@@ -91,6 +90,8 @@ $$
 - **Pour valider la conclusion, refaire des tests une fois segmentation à la main effectuée**
 
 
+# Bibliographie
+[1] [Ho, Pei-Gee. 2009. Geoscience and Remote Sensing. BoD – Books on Demand.](https://books.google.fr/books?hl=fr&lr=&id=cnSfDwAAQBAJ&oi=fnd&pg=PA277&dq=Normalized+Difference+Reflectance+NDR&ots=egDqfoZG6Y&sig=9OSXlT6J0g_RvHXOXdJnX9tOzzI#v=onepage&q=Normalized%20Difference%20Reflectance%20NDR&f=false)
 
 
 
